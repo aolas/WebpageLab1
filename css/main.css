@@ -211,8 +211,16 @@ li a:hover {
   padding-right: 15px;
   padding-left: 15px;
 }
+.main-content{
+  padding: 0 15px 0 15px;
+}
 .nav-style{
   background-color: #333333;
+}
+.post{
+  height: 300px;
+  width: 50%;
+  background-color: #111111;
 }
 
 @media only screen and (min-width: 35em) {
