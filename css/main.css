@@ -177,6 +177,9 @@ textarea {
    These examples override the primary ('mobile first') styles.
    Modify as content requires.
    ========================================================================== */
+body{
+  background-color: #5f6265;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -212,7 +215,8 @@ li a:hover {
   padding-left: 15px;
 }
 .main-content{
-  padding: 0 15px 0 15px;
+  padding: 5px 15px 0 15px;
+  background-color: #f0f1f2;
 }
 .nav-style{
   background-color: #333333;
