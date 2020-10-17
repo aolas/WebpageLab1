@@ -16,18 +16,17 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="217ceafe-dbac-48aa-94dc-84f135299454" name="Default Changelist" comment="hom page">
-      <change afterPath="$PROJECT_DIR$/Post4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageMap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post5.html" afterDir="false" />
+    <list default="true" id="217ceafe-dbac-48aa-94dc-84f135299454" name="Default Changelist" comment="Mostly done Need to add form post with all posible elements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Post4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Post4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageMap.html" beforeDir="false" afterPath="$PROJECT_DIR$/pageMap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post1.html" beforeDir="false" afterPath="$PROJECT_DIR$/post1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post2.html" beforeDir="false" afterPath="$PROJECT_DIR$/post2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post3.html" beforeDir="false" afterPath="$PROJECT_DIR$/post3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post5.html" beforeDir="false" afterPath="$PROJECT_DIR$/post5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,9 @@
       <workItem from="1601797145522" duration="2293000" />
       <workItem from="1601923227117" duration="967000" />
       <workItem from="1602138090442" duration="7536000" />
-      <workItem from="1602826105501" duration="24486000" />
+      <workItem from="1602826105501" duration="25427000" />
+      <workItem from="1602913505354" duration="5700000" />
+      <workItem from="1602919359334" duration="4762000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1601704866586</created>
@@ -112,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601923254000</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Mostly done Need to add form post with all posible elements">
+      <created>1602858814567</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602858814567</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,9 +164,14 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="added todo" />
     <MESSAGE value="hom page" />
-    <option name="LAST_COMMIT_MESSAGE" value="hom page" />
+    <MESSAGE value="Mostly done Need to add form post with all posible elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mostly done Need to add form post with all posible elements" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602919207525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1024.1240@0.0.1920.1040" timestamp="1602919207525" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1601797527642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -175,10 +188,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1024.1240@0.0.1920.1040" timestamp="1602828002239" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601923424397">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602858833012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1024.1240@0.0.1920.1040" timestamp="1601923424397" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1024.1240@0.0.1920.1040" timestamp="1602858833012" />
+    <state x="666" y="76" width="587" height="888" key="find.popup" timestamp="1602913585452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="76" width="587" height="888" key="find.popup/0.0.1920.1040/1920.0.1024.1240@0.0.1920.1040" timestamp="1602913585452" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601923284908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
