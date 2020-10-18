@@ -16,7 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="217ceafe-dbac-48aa-94dc-84f135299454" name="Default Changelist" comment="almost done&#10;TODONeed to add aditional meta tags">
+    <list default="true" id="217ceafe-dbac-48aa-94dc-84f135299454" name="Default Changelist" comment="Final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Post4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Post4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
@@ -92,7 +92,8 @@
       <workItem from="1602913505354" duration="5700000" />
       <workItem from="1602919359334" duration="4834000" />
       <workItem from="1602959045249" duration="851000" />
-      <workItem from="1602996996269" duration="1364000" />
+      <workItem from="1602996996269" duration="1462000" />
+      <workItem from="1603046936008" duration="1865000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1601704866586</created>
@@ -129,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602924211906</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Final">
+      <created>1603010477734</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603010477734</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +183,8 @@
     <MESSAGE value="hom page" />
     <MESSAGE value="Mostly done Need to add form post with all posible elements" />
     <MESSAGE value="almost done&#10;TODONeed to add aditional meta tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="almost done&#10;TODONeed to add aditional meta tags" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
   <component name="WindowStateProjectService">
     <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602919207525">
@@ -198,15 +207,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1024.1240@0.0.1920.1040" timestamp="1602828002239" />
-    <state x="208" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602924222064">
-      <screen x="0" y="0" width="1024" height="1240" />
-    </state>
-    <state x="208" y="300" key="Vcs.Push.Dialog.v2/0.0.1024.1240@0.0.1024.1240" timestamp="1602924222064" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1024.1240@0.0.1920.1040" timestamp="1602858833012" />
-    <state x="666" y="76" width="587" height="888" key="find.popup" timestamp="1602913585452">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603010486508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="666" y="76" width="587" height="888" key="find.popup/0.0.1920.1040/1920.0.1024.1240@0.0.1920.1040" timestamp="1602913585452" />
+    <state x="208" y="300" key="Vcs.Push.Dialog.v2/0.0.1024.1240@0.0.1024.1240" timestamp="1602924222064" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1024.1240@0.0.1920.1040" timestamp="1603010486508" />
+    <state x="666" y="76" width="587" height="888" key="find.popup" timestamp="1603048952586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="76" width="587" height="888" key="find.popup/0.0.1920.1040/1920.0.1024.1240@0.0.1920.1040" timestamp="1603048952586" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601923284908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
